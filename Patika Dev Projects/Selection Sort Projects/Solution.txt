@@ -10,3 +10,6 @@ Adım 6: [2, 6, 16, 18, 22, 27]
 Bu şekilde, verilen dizi Insertion Sort algoritması kullanılarak küçükten büyüğe doğru sıralanmıştır. 
 Her adımda, bir eleman alınarak uygun konumuna yerleştirilir ve geri kalan elemanlar kaydırılır. 
 Bu işlem, dizinin tamamı sıralanana kadar tekrarlanır.
+
+
+Ortada olduğu için average case kapsamına girer.
