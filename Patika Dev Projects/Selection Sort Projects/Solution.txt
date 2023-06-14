@@ -1,0 +1,12 @@
+Insertion Sort'a göre verilen dizinin aşamaları şu şekildedir:
+
+Adım 1: [22, 27, 16, 2, 18, 6]
+Adım 2: [22, 27, 16, 2, 18, 6]
+Adım 3: [16, 22, 27, 2, 18, 6]
+Adım 4: [2, 16, 22, 27, 18, 6]
+Adım 5: [2, 16, 18, 22, 27, 6]
+Adım 6: [2, 6, 16, 18, 22, 27]
+
+Bu şekilde, verilen dizi Insertion Sort algoritması kullanılarak küçükten büyüğe doğru sıralanmıştır. 
+Her adımda, bir eleman alınarak uygun konumuna yerleştirilir ve geri kalan elemanlar kaydırılır. 
+Bu işlem, dizinin tamamı sıralanana kadar tekrarlanır.
