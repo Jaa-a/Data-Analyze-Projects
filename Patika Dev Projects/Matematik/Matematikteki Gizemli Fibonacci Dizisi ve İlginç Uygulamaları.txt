@@ -1,0 +1,31 @@
+Matematik dünyasında bazı konular vardır ki hem bilim insanlarını hem de sıradan insanları büyüleyen gizemli yönleriyle ön plana çıkar.
+Bu konulardan biri de Fibonacci dizisidir. Fibonacci dizisi, doğada, sanatta ve hatta finansal piyasalarda rastlanan bir dizi sayıları ifade eder. 
+Bu blog yazısında, Fibonacci dizisinin ne olduğunu, nasıl oluştuğunu ve ilginç uygulamalarını keşfedeceğiz.
+
+Fibonacci dizisi, her sayının kendisinden önceki iki sayının toplamı olduğu bir sayı dizisidir. 
+Dizinin başlangıcı genellikle 0 ve 1 ile yapılan iki sayı ile yapılır. 
+İşte bir Fibonacci dizisi örneği: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
+
+Fibonacci dizisini sezgisel olarak anlamak için doğadaki desenlere bir göz atalım. Örneğin, bir güneş çiçeği üzerindeki tohumların düzenine bakarsanız, 
+genellikle sağdan sola ve yukarıdan aşağıya doğru spiraller oluşturduklarını fark edebilirsiniz. Bu spirallerin sayısını sayarsanız, genellikle bir 
+Fibonacci sayıları dizisi elde edersiniz. Benzer bir şekilde, bir deniz kabuğunun spirallerini veya çam kozalaklarının düzenini incelediğinizde de 
+Fibonacci dizisiyle uyumlu sayılar bulabilirsiniz.Bu doğal desenlerin Fibonacci sayılarıyla ilişkili olması, matematikçilere büyük bir merak ve 
+hayranlık kaynağı olmuştur.
+
+Fibonacci dizisi, matematiksel olarak sadece bir dizi sayı olsa da, pek çok ilginç uygulamaya sahiptir. İşte bazı örnekler:
+
+Altın Oran: Fibonacci dizisindeki ardışık sayıları birbirine böldüğünüzde, yaklaşık olarak 1.618 sayısını elde edersiniz. 
+Bu sayı, matematikte "altın oran" olarak bilinir. Altın oran, sanatta ve mimaride estetik bir denge ve uyum sağlamak için kullanılır.
+
+Fraktallar: Fibonacci dizisi, fraktalların oluşumunda önemli bir rol oynar. Fraktallar, karmaşık yapıları tekrarlayan desenlerle tanımlanan matematiksel
+nesnelerdir. Fibonacci dizisinin sayıları, çeşitli fraktal yapıların oluşumunda kullanılır.
+
+Teknik Analiz: Finansal piyasalarda, Fibonacci dizisi teknik analizin önemli bir parçasıdır. Fiyat hareketlerini tahmin etmek ve destek/direnç seviyelerini
+ belirlemek için Fibonacci retracement ve Fibonacci uzantı seviyeleri kullanılır.
+
+Kriptografi: Fibonacci dizisi, kriptografi alanında da kullanılan önemli bir araçtır. Fibonacci sayıları, rastgele sayı üretimi ve şifreleme algoritmalarında
+ kullanılan temel yapı taşlarından biridir.
+
+Fibonacci dizisi, matematiksel bir gizemle doğada ve insan yapımı sistemlerde karşımıza çıkan bir fenomendir. Hem sezgisel bir anlama hem de ilginç uygulamalarla
+ birçok alanda etkili olmuştur. Doğanın matematiksel gizemlerini ve desenlerini anlamak için Fibonacci dizisi, sadece bir başlangıç noktası olabilir. 
+Matematik, bize dünyanın ardındaki anlamları ve bağlantıları keşfetme yolunda güçlü bir araç sağlar.
