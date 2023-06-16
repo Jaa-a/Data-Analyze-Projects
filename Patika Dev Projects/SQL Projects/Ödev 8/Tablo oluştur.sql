@@ -1,0 +1,6 @@
+CREATE TABLE employee (
+	ID INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
+	NAME varchar(50) not null,
+	BIRTHDAY date,
+	EMAIL varchar(100)
+);
